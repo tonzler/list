@@ -9,9 +9,15 @@
 ## ダウンロード
 以下のリンクより，ファイルをダウンロードすることができます。
 
-[実行ファイル](http://github.com/tonzler/list/blob/master/tonzlerslist_1.0.0.0_release.zip)
+[tonzler/list - Github.com](https://github.com/tonzler/list)
 
-[ソースコード](http://github.com/tonzler/list/blob/master/tonzlerslist_1.0.0.0_src.zip)
+実行ファイルはtonzlerslist_1.0.0.0_release.zip
+
+ソースコードはtonzlerslist_1.0.0.0_src.zip
+
+です。
+
+使用されるだけの方は実行ファイルのほうをダウンロードしてください。
 
 ## 操作方法について
 ### 1.ソフトウェアの起動
